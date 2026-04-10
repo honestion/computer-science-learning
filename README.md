@@ -9,5 +9,3 @@
 - [ ] **Week 4: Libraries** — следующая цель.
 
 ## 💡 Полезные шпаргалки
-* [Срезы в Python (Slicing)](./Week0-Functions/slicing.md) — как разворачивать строки.
-* [Циклы for vs while](./Week2-Loops/loops_notes.md).
