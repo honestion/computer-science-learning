@@ -1,11 +1,11 @@
 # computer-science-learning
 
 Этот репозиторий — мой личный архив обучения. Здесь я храню шпаргалки, интересные конструкции и свои эксперименты.
+This repo is my personal archive of learning. I save my notes, interesting code constructions, and experiments here.
+There are files like plates.py in directories like week 2. Here I save my notes from solving cs50 problems. 
 
-## 📝 План обучения (CS50P)
-- [x] **Week 0: Functions, Variables** — освоил ввод данных и методы строк.
-- [x] **Week 1: Conditionals** — работа с логикой `if/else`.
-- [ ] **Week 2: Loops** — в процессе (сейчас вожусь с `camel.py`).
-- [ ] **Week 4: Libraries** — следующая цель.
-
-## 💡 Полезные шпаргалки
+## 📝 Learning plan (CS50P)
+- [x] **Week 0: Functions, Variables**
+- [x] **Week 1: Conditionals**
+- [x] **Week 2: Loops**
+- [ ] **Week 4: Libraries**.
