@@ -10,7 +10,7 @@ for number in numbers:
     
 ##**#Slices**
 
-#Slices allow you to get elements of the list fast. To use slices you need to use ":" inside square brackets. Slices work like "list[start:stop:step];
+#Slices allow you to get elements of the list fast. To use slices you need to use ":" inside square brackets. Slices work like "list[start:stop:step]. First element is inclusive, second is exclusive so slices work as **[inclusive : exclusive]**;
 
 ```python
 numbers = [1, 2, 5, 13]
