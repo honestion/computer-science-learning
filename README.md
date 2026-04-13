@@ -8,4 +8,5 @@ There are files like plates.py in directories like week 2. Here I save my notes 
 - [x] **Week 0: Functions, Variables**
 - [x] **Week 1: Conditionals**
 - [x] **Week 2: Loops**
+- [ ] **Week 3: Exceptions**
 - [ ] **Week 4: Libraries**.
