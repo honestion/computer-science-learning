@@ -1,4 +1,4 @@
-# You need to to do lst[obj]
+# You need to do lst[obj]
 I made a wierd mistake when initialized value into whole list:
 ```python
 lst = ['q', 'qe', 'egfd']
