@@ -7,7 +7,7 @@
 Allows you to pad float object with x digits after decimal number
 ```python
 p = 3.14159265
-print(f"{p:2f}") # will output 3.14
+print(f"{p:.2f}") # will output 3.14
 ```
 #**:xd** where x is any character
 
