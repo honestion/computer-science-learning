@@ -36,10 +36,11 @@ else:
   print("-")
 ```
 ## **What is "raise_for_error" function**
-If you call, for example, requests.get() server will asnwer with exit code like 2.. , 4.., or 5.. but codes
-started with 4 and 5 mean errors. It's important because even if there are 4 or 5 exit code of request.get()
-will be executed anyway so at the end you will get wrong output. But if you use raise_for_error there will
-be HTTPError from requests.RequestException and programm will, for instance, exit. So
+If you call, for example, **requests.get()** server will asnwer with exit code like 2.. , 4.., or 5.. but codes
+started with 4 and 5 mean *errors*. It's important because even if there are 4 or 5 exit code of request.get()
+will be executed anyway so at the end you will get wrong output. But if you use **raise_for_error()** there will
+be **HTTPError** from **requests.RequestException** and programm will, for instance, exit. So **raise_for_error()**
+allows you to not work with "garbage" but throw it out:
 ```python
 import requests
 
