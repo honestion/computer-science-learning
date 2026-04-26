@@ -9,4 +9,5 @@ There are files like plates.py in directories like week 2. Here I save my notes 
 - [x] **Week 1: Conditionals**
 - [x] **Week 2: Loops**
 - [x] **Week 3: Exceptions**
-- [ ] **Week 4: Libraries**.
+- [x] **Week 4: Libraries**.
+- [ ] **Week 5: Unit tests**
