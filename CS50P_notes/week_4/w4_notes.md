@@ -35,3 +35,26 @@ if a in [1, 2, 3]: # but not str because if you use |str(a) in "123" | there are
 else:
   print("-")
 ```
+## **What is "raise_for_error" function**
+If you call, for example, requests.get() server will asnwer with exit code like 2.. , 4.., or 5.. but codes
+started with 4 and 5 mean errors. It's important because even if there are 4 or 5 exit code of request.get()
+will be executed anyway so at the end you will get wrong output. But if you use raise_for_error there will
+be HTTPError from requests.RequestException and programm will, for instance, exit. So
+```python
+import requests
+
+try:
+  url = ...
+
+  response = requests.get(url)
+        
+  response.raise_for_status()
+  # if there is exit code 5..(server error) or 4..(client error) func will return error
+
+  # if we are there means that there are no errors
+  data = response.json()
+  
+except requests.RequestsException:
+  print(...) # some explanation
+  sys.exit(1)
+```
