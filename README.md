@@ -10,4 +10,8 @@ There are files like plates.py in directories like week 2. Here I save my notes 
 - [x] **Week 2: Loops**
 - [x] **Week 3: Exceptions**
 - [x] **Week 4: Libraries**.
-- [ ] **Week 5: Unit tests**
+- [x] **Week 5: Unit tests**
+- [ ] **Week 6: File I/O**
+- [ ] **Week 7: Regular Expressions**
+- [ ] **Week 8: Object-Oriented Programming**
+- [ ] **Week 9: Et Cetera**
