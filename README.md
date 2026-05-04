@@ -17,7 +17,7 @@ There are files like plates.py in directories like week 2. Here I save my notes 
   
   ~~**Week 5: Unit tests**~~
   
-  **Week 6: File I/O**
+  ~~**Week 6: File I/O**~~
   
   **Week 7: Regular Expressions**
   
