@@ -19,7 +19,7 @@ There are files like plates.py in directories like week 2. Here I save my notes 
   
   ~~**Week 6: File I/O**~~
   
-  **Week 7: Regular Expressions**
+  ~~**Week 7: Regular Expressions**~~
   
   **Week 8: Object-Oriented Programming**
   
